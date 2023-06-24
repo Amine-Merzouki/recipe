@@ -4,8 +4,8 @@
 ### This is a LOCAL change :)
 ### line 2 changed remotely
 
-Title: BREAKFAST EASY RECIEPE
-Source: https://www.allrecipes.com/air-fryer-waffle-egg-in-a-hole-7377995
+*Title:* **BREAKFAST EASY RECIEPE**
+*Source:* https://www.allrecipes.com/air-fryer-waffle-egg-in-a-hole-7377995
 
 ### Ingredients list:
 1. 1 frozen waffle
