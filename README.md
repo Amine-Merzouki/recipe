@@ -17,3 +17,6 @@
 
 last line changed locally
 ### This is a REMOTE change :O
+
+
+![Recipe image](recipe.jpg)
